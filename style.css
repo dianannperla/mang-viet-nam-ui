@@ -11,7 +11,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.85); /* Increased opacity for better accessibility */
+  background-color: rgba(0, 0, 0, 0.9); /* Adjusted opacity for better visibility */
 }
 
 .modal-content {
